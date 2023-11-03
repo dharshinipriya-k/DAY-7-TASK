@@ -1,0 +1,1 @@
+This repository contains Day 7 task (MAP, REDUCE, FILTER )
